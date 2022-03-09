@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dmrel/static/css/main.0f460b70.css",
+    "main.js": "/dmrel/static/js/main.6e04a82d.js",
+    "index.html": "/dmrel/index.html",
+    "main.0f460b70.css.map": "/dmrel/static/css/main.0f460b70.css.map",
+    "main.6e04a82d.js.map": "/dmrel/static/js/main.6e04a82d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f460b70.css",
+    "static/js/main.6e04a82d.js"
+  ]
+}
